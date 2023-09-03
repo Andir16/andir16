@@ -13,3 +13,6 @@ I love to share my thoughts and insights on technology. You can find my writings
 ### Connect with Me 🌐
 - **Twitter**: [Follow me on Twitter](https://twitter.com/andir16)
 - Feel free to reach out if you have any questions or want to collaborate on exciting projects!
+
+### Stats
+![GitHub Steak](https://streak-stats.demolab.com/?user=andir16&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
