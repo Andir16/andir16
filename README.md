@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 ### Hi there 👋
 In my spare time, I dive into exciting areas like Handshake, Cryptography, Cyber Security, Machine Learning, and Quantum Computing. 🚀
 
 ### Writing ✍️
 - [Personal blog](https://arenz.ch) 
 
-=======
->>>>>>> 9722dfbd332dcafa4156595ef7d9f390a900ed57
 ### Projects 💻
 - **hnssearch**: A search engine designed to explore Handshake domains. Check it out [here](https://hnssearch.io/).
 
